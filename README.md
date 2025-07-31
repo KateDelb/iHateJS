@@ -1,0 +1,2 @@
+# iHateJS
+fairly simple innit?
